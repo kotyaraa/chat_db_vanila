@@ -1,0 +1,23 @@
+{
+  "name": "chat_client_server",
+  "version": "1.0.0",
+  "description": "chet_node.js_vanila",
+  "main": "db.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kotyaraa/chat_db_vanila.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kotyaraa/chat_db_vanila/issues"
+  },
+  "homepage": "https://github.com/kotyaraa/chat_db_vanila#readme",
+  "dependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
